@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FEM Solution](https://your-solution-url.com)
+- Solution URL: [FEM Solution](https://www.frontendmentor.io/solutions/nft-card-made-with-vuejs-tailwind-uKjmQiIpm9)
 - Live Site URL: [Nft Card Preview](https://nftcard-preview.netlify.app/)
 
 ## My process
